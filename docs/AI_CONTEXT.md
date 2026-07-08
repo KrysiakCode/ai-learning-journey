@@ -90,13 +90,22 @@ Po każdej lekcji aktualizowane są odpowiednie dokumenty.
 
 # Current Status
 
-Projekt znajduje się na etapie budowy systemu nauki.
+Projekt znajduje się w trakcie właściwej nauki AI.
 
-Repozytorium zostało utworzone.
+Aktualnie realizowany jest Moduł 1 — Fundamenty AI.
 
-Powstały podstawowe dokumenty architektoniczne.
+Zrealizowane zagadnienia:
 
-Następnym etapem jest rozpoczęcie właściwej nauki AI.
+- czym jest model AI,
+- LLM,
+- tokeny,
+- parametry modelu (weights),
+- embedding,
+- różnica między embeddingiem a reprezentacją kontekstową,
+- intuicja działania Self-Attention,
+- rola Query, Key i Value.
+
+Aktualnie omawiany jest mechanizm Self-Attention.
 
 ---
 
@@ -146,5 +155,11 @@ Będzie rozwijana etapami jako główny projekt całego kursu.
 
 # Current Next Step
 
-Rozpoczęcie Modułu 1 — Fundamenty AI.
+Kontynuacja Lekcji 5 — Self-Attention.
 
+Pozostało omówić:
+
+- pełny przebieg Self-Attention,
+- Softmax,
+- Multi-Head Attention,
+- pojedynczą warstwę Transformera.
